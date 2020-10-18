@@ -1,0 +1,12 @@
+ISF
+JPM
+SLA
+NKE
+BAC
+PEP
+RBS
+DIS
+AAPL
+NVDA
+bp
+msft
